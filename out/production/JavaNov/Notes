@@ -1,0 +1,13 @@
+1. Variables:
+    Is like a jar/box/container that can store/hold something
+    -dataType variableName = value; <= We can use this when we know the exact value that we want to store
+
+    -dataType variableName;  <= We can use this when we don't know the exact value that we want to store
+     variableName = value;
+
+     1 byte = 8 bits
+
+     Data Type:
+       -Primitive data Type    : [byte(1 byte), short(2 Byte), int(4 Byte), long(8 Byte)], [float(4 Byte), double(8 Byte)], char(2 Byte), boolean(~1 bit)
+
+       -Non-Primitive Data Type: Array, String......
