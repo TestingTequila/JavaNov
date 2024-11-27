@@ -11,3 +11,55 @@
        -Primitive data Type    : [byte(1 byte), short(2 Byte), int(4 Byte), long(8 Byte)], [float(4 Byte), double(8 Byte)], char(2 Byte), boolean(~1 bit)
 
        -Non-Primitive Data Type: Array, String......
+       ======================================================
+       Variables : To store
+       Statements: To make decisions, we use statements
+       1. if else statement : To make single Decision
+          if(condition)
+          {
+             This will execute only if condition is true
+          }
+          else
+          {
+             This will execute if condition is false
+          }
+
+       2. if else-if statement : To make Multiple Decision
+       if(condition)
+                 {
+                    This will execute only if condition is true
+                 }
+                 else if(condition2)
+                 {
+                    This will execute if condition is false
+                 }
+                else if(condition3)
+                 {
+                     This will execute if condition is false
+                 }
+                                  else if(conditionN)
+                                  {
+                                     This will execute if condition is false
+                                  }
+                                  else
+                                  {
+                                    This will execute if none of the condition is true
+                                  }
+       3. switch statement:To make Multiple Decision, faster than if-else if statement
+          switch(DefineOverWhichYouWillSwitch)
+          {
+              case switch1:
+                execute you code;
+                break;
+                case switch2:
+                  execute you code;
+                  break;
+                case switch3:
+                  execute you code;
+                  break;
+
+                  default:
+                     executed if nothing above is true
+                     break;
+
+          }
