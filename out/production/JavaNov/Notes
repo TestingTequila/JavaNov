@@ -63,3 +63,25 @@
                      break;
 
           }
+
+          //Variable -- To store
+          //Statements -- To make decisions
+            if-else Statement: We wish to make single decision
+            if else-if statement: This will used to make multiple decisions
+            switch: To make multiple decisions, This is faster that if-else
+          //Loops: To perform repetitive tasks
+            -while loop
+            -----------
+             while(condition)
+             {
+                  This will execute only if condition is true
+                  I/D;
+             }
+             ----------
+            -for loop
+                         for(variable; condition;I/D)
+                         {
+                              This will execute only if condition is true
+
+                         }
+            -advanced for loop
