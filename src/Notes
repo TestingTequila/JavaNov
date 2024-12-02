@@ -86,3 +86,14 @@
                          }
 
             -advanced for loop
+-Variables: store some value;
+-Statements: to make decision/s;(if-else/if-elseif/switch)
+-loops: repeating tasks;(while/for/advancedForLoop)
+-Arrays: Can hold multiple values at a time
+         dataType[] arrayName = {value1, value2, value3,.......valueN};
+         dataType[]  arrayName = new dataType[countOfValuesYouWantToStore];
+
+ Drawback:
+    -Where the count of value is fixed
+ Overcome:
+    -Collections

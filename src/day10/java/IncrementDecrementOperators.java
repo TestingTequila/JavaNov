@@ -4,7 +4,7 @@ public class IncrementDecrementOperators
 {
     public static void main(String[] args)
     {
-        //pre-increment --> Assign and then increment
+        //post-increment --> Assign and then increment
         int x= 10;
         int y=x++;
         System.out.println(x);
@@ -15,7 +15,7 @@ public class IncrementDecrementOperators
         System.out.println(a);
         System.out.println(b);
 
-        //post-increment
+        //pre-increment
         int c =100;
         int d = ++c;
         System.out.println(c);
