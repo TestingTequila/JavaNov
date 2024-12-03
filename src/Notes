@@ -97,3 +97,9 @@
     -Where the count of value is fixed
  Overcome:
     -Collections
+
+    ===========================================CLASS============================
+    Class ---> Template
+    Objects ---> Every copy of the class(Template) is called its object(copyOfTemplate)
+    Syntax to create Object(copy) of a class(Template)
+    NameOfTheClassWhoseObjectYouWantToCreate nameOfObject = new NameOfTheClassWhoseObjectYouWantToCreate();
