@@ -103,3 +103,17 @@
     Objects ---> Every copy of the class(Template) is called its object(copyOfTemplate)
     Syntax to create Object(copy) of a class(Template)
     NameOfTheClassWhoseObjectYouWantToCreate nameOfObject = new NameOfTheClassWhoseObjectYouWantToCreate();
+
+    ======================================METHODS============================
+
+    sugar
+    milk powder
+    tea leaves
+
+    accessModifier[public/private/protected] returnType[void/dataTypes] methodName(can/t parameters)
+    {
+      Define the action you want to perform over the variables
+    }
+
+
+
