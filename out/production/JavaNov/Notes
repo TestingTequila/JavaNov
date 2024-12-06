@@ -115,5 +115,7 @@
       Define the action you want to perform over the variables
     }
 
+ReturnType: We use it in cases where we wish to do further calculation/manipulation with the result of the method
+fyi:        void and return keyword cannot exist together
 
 
